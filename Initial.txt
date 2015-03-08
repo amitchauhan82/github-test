@@ -1,6 +1,7 @@
 Hi
 This is an initial file for GIT HUB.
 
+This is changed in develop branch. This needs to be merged into master branch.
 
 
 Amit
